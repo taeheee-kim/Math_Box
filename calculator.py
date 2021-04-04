@@ -1,3 +1,4 @@
+# 기본 계산기에용
 def add(a,b):
 	return a+b
 
